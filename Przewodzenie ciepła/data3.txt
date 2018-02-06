@@ -1,0 +1,17 @@
+0,1  	H						wysokosc przekroju, m
+0,3		B						szerokosc przekroju, m
+10		nH						liczba wezlow po wysokosci
+10		nB						iczba wezlow po szerokosci
+25		initialTemperature		temperatura poczatkowa, C
+0.0001 	simulationTime			czas procesu, s
+1		simulationStepTime		krok czasowy, s
+25  	ambientTemperature		temperatura otoczenia wewnątrz, C
+10  	ambientTemperature2		temperatura otoczenia na zewnątrz, C
+900		alfa1					wspolczynnik wymiany ciepla, W/(K*m^2)
+300		alfa2					wspolczynnik wymiany ciepla, W/(K*m^2)
+950		specificHeat1			cieplo wlasciwe betonu, J/(kg*C)
+146		specificHeat2			cieplo wlasciwe styropianu, J/(kg*C)
+1,74	conductivity1			wspolczynnik przewodzenia ciepla, W/(C*m^2)
+0,042	conductivity2			wspolczynnik przewodzenia ciepla, W/(C*m^2)
+2400	density1				gestosc betonu, kg/m^3
+20	    density2				gestosc styropianu, kg/m^3
